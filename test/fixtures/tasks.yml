@@ -1,0 +1,19 @@
+# Read about fixtures at http://ar.rubyonrails.org/classes/Fixtures.html
+
+one:
+  name: MyString
+  startDate: 2012-12-02
+  estimatedDays: 1
+  actualDays: 1
+  status: 1
+  project_id: 1
+  developer_id: 1
+
+two:
+  name: MyString
+  startDate: 2012-12-02
+  estimatedDays: 1
+  actualDays: 1
+  status: 1
+  project_id: 1
+  developer_id: 1
